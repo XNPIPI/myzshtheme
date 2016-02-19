@@ -5,3 +5,7 @@
 * 原来的单行主题改为双行，更优雅的显示长目录
 
 >因需要计算目录深度，故需要安装bc
+
+![效果图](https://github.com/nalansitan/myzshtheme/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+
+![效果图1](https://github.com/nalansitan/myzshtheme/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
