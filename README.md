@@ -15,4 +15,4 @@
 ![效果图1](https://github.com/nalansitan/myzshtheme/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 
 ## 效果图2
-![效果图1](https://github.com/nalansitan/myzshtheme/blob/master/效果图2.png)
+![效果图2](https://github.com/nalansitan/myzshtheme/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
