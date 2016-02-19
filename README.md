@@ -1,0 +1,2 @@
+# myzshtheme
+基于agnoster主题修改的双行zsh主题，添加了分不同颜色显示不同目录功能
